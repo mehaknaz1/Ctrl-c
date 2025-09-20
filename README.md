@@ -1,1 +1,3 @@
-# 49.-Team-Name-Problem-Statement
+# 61
+Team Name: ctrl+c
+Problem Statement: Scam Investment Detector 
